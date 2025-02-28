@@ -1,1 +1,1 @@
-Small snake game written in python
+Small snake game written in Java
